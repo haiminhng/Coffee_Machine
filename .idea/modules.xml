@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Coffee_Machine.iml" filepath="$PROJECT_DIR$/.idea/modules/Coffee_Machine.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Coffee Machine/task/Coffee_Machine.Coffee_Machine-task.iml" filepath="$PROJECT_DIR$/.idea/modules/Coffee Machine/task/Coffee_Machine.Coffee_Machine-task.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Coffee Machine/task/Coffee_Machine.Coffee_Machine-task.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Coffee Machine/task/Coffee_Machine.Coffee_Machine-task.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Coffee Machine/task/Coffee_Machine.Coffee_Machine-task.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Coffee Machine/task/Coffee_Machine.Coffee_Machine-task.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Direction/Coffee_Machine.Problems-Direction.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Direction/Coffee_Machine.Problems-Direction.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Direction/Coffee_Machine.Problems-Direction.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Direction/Coffee_Machine.Problems-Direction.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Direction/Coffee_Machine.Problems-Direction.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Direction/Coffee_Machine.Problems-Direction.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Floor-space of the room/Coffee_Machine.Problems-Floor-space_of_the_room.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Floor-space of the room/Coffee_Machine.Problems-Floor-space_of_the_room.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Floor-space of the room/Coffee_Machine.Problems-Floor-space_of_the_room.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Floor-space of the room/Coffee_Machine.Problems-Floor-space_of_the_room.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Floor-space of the room/Coffee_Machine.Problems-Floor-space_of_the_room.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Floor-space of the room/Coffee_Machine.Problems-Floor-space_of_the_room.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Test learners/Coffee_Machine.Problems-Test_learners.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Test learners/Coffee_Machine.Problems-Test_learners.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Test learners/Coffee_Machine.Problems-Test_learners.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Test learners/Coffee_Machine.Problems-Test_learners.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Test learners/Coffee_Machine.Problems-Test_learners.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Test learners/Coffee_Machine.Problems-Test_learners.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Coffee_Machine.util.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Coffee_Machine.util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Coffee_Machine.util.main.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Coffee_Machine.util.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Coffee_Machine.util.test.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Coffee_Machine.util.test.iml" />
+    </modules>
+  </component>
+</project>
